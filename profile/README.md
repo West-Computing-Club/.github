@@ -1,1 +1,1 @@
-# .github
+# West Computing Club
